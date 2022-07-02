@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SanojMohanan
 - 👀 I’m interested in ...learning interesting things
-- 🌱 I’m currently learning ...Power BI , Python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Power BI , Python ,Java and  SQL
+- 💞️ I’m looking to collaborate on ... Open Source Projects
 - 📫 How to reach me ...sanumpzha@gmail.com
 
 <!---
